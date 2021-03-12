@@ -1,2 +1,2 @@
-# project-3rd-sem
+#Online Examination
 this is the c++ project on online examination
